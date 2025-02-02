@@ -1,5 +1,7 @@
-# ECE 408 / CS 483 / CSE 408 (fa24) repo for NetID: wendiw2
+# ECE 408 Fall 2024
+ Coursework from Applied Parallel Programming (ECE 408) in the Fall of 2024 semester. 
 
-GitHub username at initialization time: wendy0809victoria
-
-For next steps, please refer to the instructions provided by your course.
+## Academic Integrity
+1. Every file in this repository is for academic usage ONLY, and DO NOT COPY THE CODE. 
+2. Using this code for homework submissions is strictly prohibited and violates academic integrity policies.
+3. As the author of this repository, I will be NOT responsible for any academic misconduct allegations arising from someone copying the contents of this repository. 
